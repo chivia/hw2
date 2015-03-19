@@ -13,6 +13,7 @@ ds <- cbind(ds,cdf)
 #draw a random numer from U(0,1)
 kkkkooooopppp
 
+llll
 xmar<-NULL
 ymar<-NULL
 z<-NULL
