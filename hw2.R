@@ -11,7 +11,7 @@ ds <- data.frame(expand.grid(x=-1:1,y=-1:1))
 # and attach the probabilities to the dataframe as a third colume
 ds <- cbind(ds,cdf)
 #draw a random numer from U(0,1)
-kkkkooooopppp
+kkkkooooopppp000000000000
 
 xmar<-NULL
 ymar<-NULL
